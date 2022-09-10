@@ -10,10 +10,16 @@ $$ F_n(x) = \#\{x_i \leq x \} / n $$
 
 となる関数
 
-$P(X \leq x) = F(x)$とすると、対数の法則によって$F_n(x)=\#\{x_i\leq x\}/n \xrightarrow P F(x)$が成立する
+$P(X \leq x) = F(x)$とすると、大数の法則によって$F_n(x)=\#\{x_i\leq x\}/n \xrightarrow P F(x)$が成立する
 
 
 # context
 
-正規Q-Qプロットの説明で出てくる
+- 順序統計量
+- リサンプリング法(特にブートストラップ法)
+- 正規Q-Qプロットの説明で出てくる
+
+# memo
+
+
 
